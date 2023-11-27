@@ -18,4 +18,4 @@ class MyFirstInput {
 Run your application.
 Notice the prompt on the IntelliJ console asking you to enter your name.
 Have a discussion with your pair partner on what you think each line of the code above does.
-Activity 2: My First Variable Naming
+
