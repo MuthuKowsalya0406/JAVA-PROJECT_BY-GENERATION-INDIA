@@ -23,3 +23,8 @@ public class Myfirstinput {
 	}
 
 }
+OUTPUT:
+please enter your name 
+Muthukowsalya R
+My name is Muthukowsalya
+
