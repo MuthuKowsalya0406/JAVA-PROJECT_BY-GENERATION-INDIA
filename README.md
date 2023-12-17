@@ -1,4 +1,5 @@
 **Activity 1 (Introduction): My First Input**
+
 1)Open your IntelliJ Idea IDE and follow the instructions below
 
 2)Create a project called 'MyFirstInput'
